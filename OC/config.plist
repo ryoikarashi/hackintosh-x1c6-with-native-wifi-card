@@ -1078,10 +1078,18 @@
 				</data>
 				<key>AAPL00,override-no-connect</key>
 				<data>
-				AP///////wAJ5d8GAAAAAAEaAQSQHxF4AoYxo1ROmyUO
-				UFQAAAABAQEBAQEBAQEBAQEBAQEBPDeA3nA4FEA8IDYA
-				Na0QAAAaMCyA3nA4FEAwIDYANa0QAAAaAAAA/gBCT0Ug
-				Q1EKICAgICAgAAAA/gBIVjE0MEZITS1ONjEKAF4=
+				AP///////wAwrq5AAAAAAAAbAQSQHxF44vvVplM0tiUO
+				UFQAAAABAQEBAQEBAQEBAQEBAQEB5l8AoKCgQFAwIDUA
+				gGghAAAYj2YAoKCgLVAwIDUAgGghAAAY22cAoKCgKVAw
+				IDUAgGghAAAYMGUAoKCgMFAwIDUAgGghAAAYADc=
+				</data>
+				<key>complete-modeset</key>
+				<data>
+				AQAAAA==
+				</data>
+				<key>complete-modeset-framebuffers</key>
+				<data>
+				AAAAAAAAAAE=
 				</data>
 				<key>device-id</key>
 				<data>
