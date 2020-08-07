@@ -1083,14 +1083,6 @@
 				Na0QAAAaMCyA3nA4FEAwIDYANa0QAAAaAAAA/gBCT0Ug
 				Q1EKICAgICAgAAAA/gBIVjE0MEZITS1ONjEKAF4=
 				</data>
-				<key>complete-modeset</key>
-				<data>
-				AQAAAA==
-				</data>
-				<key>complete-modeset-framebuffers</key>
-				<data>
-				AAAAAAAAAAE=
-				</data>
 				<key>device-id</key>
 				<data>
 				FlkAAA==
@@ -1103,9 +1095,17 @@
 				<data>
 				AAgAAA==
 				</data>
+				<key>framebuffer-fbmem</key>
+				<data>
+				AACQAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
 				<data>
 				AQAAAA==
+				</data>
+				<key>framebuffer-stolenmem</key>
+				<data>
+				AAAwAQ==
 				</data>
 			</dict>
 		</dict>
